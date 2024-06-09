@@ -1,0 +1,22 @@
+{
+  "name": "jscodeshift-pro",
+  "type": "module",
+  "license": "MIT",
+  "author": {
+    "name": "Nam Nguyen",
+    "email": "nam.nguyen.node@gmail.com"
+  },
+  "scripts": {
+    "test": "vitest",
+    "test:ui": "vitest --ui",
+    "test:run": "vitest run"
+  },
+  "devDependencies": {
+    "@vitest/ui": "latest",
+    "vite": "latest",
+    "vitest": "latest"
+  },
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
+}
