@@ -17,6 +17,8 @@
     "vitest": "latest"
   },
   "dependencies": {
+    "@types/jscodeshift": "^0.11.11",
+    "jscodeshift": "^0.15.2",
     "typescript": "^5.4.5"
   }
 }
